@@ -1,0 +1,10 @@
+{
+  "name": "WIXOSS Simulator",
+  "description": "WIXOSS TCG local multiplayer simulator with automated rules engine, deck builder, physical card scanner import, and digital library manager.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
